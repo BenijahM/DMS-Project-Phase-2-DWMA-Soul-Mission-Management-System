@@ -27,7 +27,6 @@ Testing Units:
           - Update Record Test
               - Negative Test: Update Nonexistent record
           - Display All Records Test
-              - Negative Test: Display Empty Records
               
     - ProgressCalculatorTest:
         - Calculate Qualification Progress Test
@@ -35,7 +34,7 @@ Testing Units:
             
     - FileImporterTest:
         - Import Records Test
-            - Negative Test: File Import
+            - Negative Test: File Import (Throws the error)
 
 
 
