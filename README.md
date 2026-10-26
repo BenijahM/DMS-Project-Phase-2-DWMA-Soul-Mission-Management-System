@@ -1,4 +1,4 @@
-# DMS Project Phase 2: DWMA Soul Mission Management System Testing
+# DMS Project Phase 2: DWMA Soul Mission Management System Software Testing
 Be'Nijah Mitchell 
 Project from course: CEN 3024-13038 – Software Development 1
 
